@@ -9,6 +9,9 @@
 4.react-router<br>
 5.react-slick<br>
 
+
+<h1>Used api : </h1>
+omdb
 <h1>To run this, follow these steps :</h1> 
 1. Download the code
 2. Run " npm install "
